@@ -13,6 +13,8 @@ This is a simple discussion forum web application with features to create discus
 - [Built With](#built-with)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
+- [Contact Me](#contact-me)
+- [Coming Soon](#comming-soon-features)
 
 ## Features
 
@@ -197,3 +199,40 @@ I extend my sincere appreciation to each member of our team for their dedicated 
 
 Rajkumar Khatua - [LinkedIn](https://www.linkedin.com/in/rajkumarkhatua/)
 Rajkumar Khatua - [GitHub](https://github.com/Rajkumar-Khatua)
+
+## Coming Soon Features
+
+- User authentication
+- User authorization
+- User roles
+- User profile
+- User avatar
+- User settings
+- User notifications
+- User search
+- User activity
+- User privacy
+- User preferences
+- User subscriptions
+- User followers
+- User following
+- User blocking
+- User reporting
+- User feedback
+- User support
+- User feedback
+- Performance optimization
+- Security
+- Personal group chats
+- Group chats
+- Group chat settings
+- Group chat notifications
+- Group chat search
+- Group chat activity
+- Group chat privacy
+- Group chat preferences
+- Group chat subscriptions
+- Group chat followers
+- Group chat following
+- Group chat blocking
+- Group chat reporting
